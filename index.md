@@ -5,16 +5,15 @@ Full Stack Developer - Java with 5.4 years of experience in Telecom & Financial 
 ### Technical Skills :
 
 1. Framework : Spring MVC, Spring Boot, Spring Batch
-2. Web Development : JavaScript, Angular 4, HTML5, CSS, Bootstrap
+2. Web Development : JavaScript, Angular
 3. Design Pattern : Singleton, Factory, MVC
 4. Architecture : Microservices
 5. Message Broker : RabbitMQ, Kafka
 6. Web Services : Restful WS
 7. Object Relational Mapping : Hibernate
-8. Database : Oracle, SQL 
-9. Management Tools : ALM, RTC, Putty
-10. Build/Deploy Tool : Maven, Jenkins, Docker, OpenShift  
-11. Version Control Tool : SVN, GIT
+8. Database : Oracle, NoSQL, ElasticSearch 
+9. Build/Deploy Tool : Maven, Jenkins, Docker, Kubernetes, OpenShift  
+11. Version Control Tool : Github, Gitlab
 
 ### Work Experience :
 
