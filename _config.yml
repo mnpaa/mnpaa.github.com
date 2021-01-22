@@ -7,5 +7,11 @@ description: >
   <a href="https://www.linkedin.com/in/mnpaa/">View My LinkedIn Profile</a> 
   <br><br>
 email: mnpaa1991@gmail.com   
+
+additional_links:
+- title: Twitter
+  url: <a href="https://twitter.com/BawlaPandit?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @BawlaPandit</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
 darkmode: true
+
 theme: jekyll-theme-minimal
