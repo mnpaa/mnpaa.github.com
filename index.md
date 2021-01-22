@@ -1,12 +1,12 @@
 ## Professional Summary :
 
-Full Stack Developer - Java with 5.4 years of experience in Telecom & Financial Services industry using Agile methodology.
+Full Stack Developer - Java with 6 years of experience in Telecom & Financial Services industry using Agile methodology.
 
 ### Technical Skills :
 
-1. Framework : Spring MVC, Spring Boot, Spring Batch
+1. Framework : Spring MVC, Spring Boot, Spring Cloud Spring Batch
 2. Web Development : JavaScript, Angular
-3. Design Pattern : Singleton, Factory, MVC
+3. Design Pattern : Singleton, Factory, MVC, Strangler, Chain of responsibility
 4. Architecture : Microservices
 5. Message Broker : RabbitMQ, Kafka
 6. Web Services : Restful WS
@@ -14,6 +14,7 @@ Full Stack Developer - Java with 5.4 years of experience in Telecom & Financial 
 8. Database : Oracle, NoSQL, ElasticSearch 
 9. Build/Deploy Tool : Maven, Jenkins, Docker, Kubernetes, OpenShift  
 11. Version Control Tool : Github, Gitlab
+12. Monitoring Tool : Grafana and Prometheus
 
 ### Work Experience :
 
