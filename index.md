@@ -27,5 +27,3 @@ Previous Organizations :
 1. HCL (Aug 2018 – June 2019)
 2. Infosys (Sep 2017 – Aug 2018)
 3. IBM (Dec 2014 – Aug 2017)
-
-[Stackoverflow Profile](https://stackoverflow.com/users/4539838/amit-kumar)
