@@ -1,6 +1,6 @@
 ## Professional Summary :
 
-Full Stack Developer - Java with 6 years of experience in Telecom & Financial Services industry using Agile methodology.
+Full Stack Developer - Java with 6+ years of experience in Telecom & Financial Services industry using Agile methodology.
 
 ### Technical Skills :
 
@@ -27,3 +27,5 @@ Previous Organizations :
 1. HCL (Aug 2018 – June 2019)
 2. Infosys (Sep 2017 – Aug 2018)
 3. IBM (Dec 2014 – Aug 2017)
+
+### Stackoverflow Profile : https://stackoverflow.com/users/4539838/amit-kumar
