@@ -1,6 +1,6 @@
 ## Professional Summary :
 
-Full Stack Developer - Java with 6+ years of experience in Telecom & Financial Services industry using Agile methodology.
+Full Stack Developer - Java with 7+ years of experience in Telecom & Financial Services industry using Agile methodology.
 
 ### Technical Skills :
 
