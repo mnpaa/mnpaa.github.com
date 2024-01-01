@@ -1,6 +1,6 @@
 # mnpaa.github.com
 
-# Github Pages/Profile 
+# Github Profile.
 
 # Create your profile/portfolio using this project
 
